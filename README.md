@@ -1,7 +1,7 @@
 # J-MoDL
 Joint model-based deep learning for parallel imaging.
 
-Reference article: J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and Reconstruction by H.K Aggarwal and M. Jacob. (2020) 
+Reference article: J-MoDL: Joint Model-Based Deep Learning for Optimized Sampling and Reconstruction by H.K Aggarwal and M. Jacob in IEEE Journal of Selected Topics in Signal Processing, (2020). 
 
 arXiv link: https://arxiv.org/abs/1911.02945
 
